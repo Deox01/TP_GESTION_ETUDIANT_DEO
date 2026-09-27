@@ -1,0 +1,6 @@
+
+1. Moyenne de 80 et JavaScript à 90 : Dans ce cas ci l'etudiant a reussi avec une mention excellent et est  admis car il a eu plus de 50% a la moyenne et plus de 50 comme note en Javascript.
+2. Moyenne de 75 et JavaScript à 40 : Ici l'etudiant a reussi avec mention tres bien mais malhereusement il n'est pas admis car il n'a pas eu au moins 50 en JavaScript.
+3. Frais entièrement payés, mais compte inactif : L'etudiant n'est pas autorise a passer l'examen car le compte est inactif.
+4. Étudiant de 16 ans sans autorisation parentale : L'etudiant ne peux pas passer l'examen car il a moins de 18 ans et en plus il n'a pas l'autorisation parentale.
+5. Étudiant majeur, compte actif, carte présente et paiement suffisant : Etudiant autorisé  à passer l'examen.
